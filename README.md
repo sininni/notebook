@@ -44,4 +44,5 @@ lklk is not a valid choice
 
 Enter an option: 5
 Thank you for using your notebook today.
+$
 ```
